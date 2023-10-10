@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Exec=firefox "/home/aw/Desktop/Antonin/Programmes/html-css-js/Game/game.html"
+GenericName=Game
+Icon=/home/aw/Desktop/Antonin/Images/mmp.svg
+Name=Game
+NoDisplay=false

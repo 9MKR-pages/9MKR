@@ -1,0 +1,26 @@
+body{	width:835px;
+		height:520px;
+}
+.imgs{  border-radius: 10px;
+  text-align: center;
+  margin-right: 60em;
+  cursor: pointer;
+  position: absolute;
+  left: 50%;
+  top: 0%;
+  height: 7.5%;
+  margin-left: -34px;
+  margin-top: -24px;
+}
+
+#start{  border-radius: 10px;
+  text-align: center;
+  margin-right: 60em;
+  cursor: pointer;
+  position: absolute;
+  left: 50%;
+  top: 35%;
+  height: 60px;
+  margin-left: -34px;
+  margin-top: -24px;
+}
