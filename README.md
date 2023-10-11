@@ -1,11 +1,5 @@
 9MKR
 =======
-**Idnex** :
-
-Ce Que J'aime :
------------
-Liens externes :
------------
 
 Ce Que J'aime :
 -----------
