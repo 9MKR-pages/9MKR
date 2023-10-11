@@ -4,6 +4,7 @@
 		<link rel="icon" href="index.png">
 		<meta charset="utf-8">
 		<title>Index</title>
+		<link rel="stylesheet" href="Mail/mail.css">
 	</head>
 	<style>
 body{	text-align: center;
@@ -114,5 +115,28 @@ nav a {
            			</div>
 			</ul>
 		</nav>
+		<br><br><br><h1>Attention : Mails non opérationnels, les mails que vous écrirait ne seront pas envoyés.</h1></p><br><br><br>
+		<noscript>
+			<p>Veuillez activer le Javascript pour voir la page.</p>
+		</noscript>
+		<div class="case">
+			<h1>Formulaire de contact:</h1>
+			<form>
+					<label for="nom">Nom :</label>
+					<input type="text" id="nomcontact" name="nom" placeholder="Entrez votre nom"  required><br><br>
+
+					<label for="prenom">prenom :</label>
+					<input type="text" id="prenom" name="prenom" placeholder="Entrez votre prenom" required><br><br>
+
+					<label for="email">Email :</label>
+					<input type="email" id="emailcontact" name="email" placeholder="Entrez votre adresse email" required><br><br>
+
+					<label for="message">Message :</label><br>
+					<textarea id="messagecontact" name="message" placeholder="Entrez votre message" required></textarea><br><br>
+
+					<input type = "button" value="Envoyer" id="envoyer" onClick="sendEmail()"/>
+					<script type="text/javascript" src="mail.js"></script>
+				</form>
+			</div>
 	</body>
 </html>
