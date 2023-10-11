@@ -7,7 +7,8 @@ Ce Que J'aime :
 Liens externes :
 -----------
 
-**Ce Que J'aime :**
+Ce Que J'aime :
+-----------
 
     1. J'aime :
          * L'informatique ;
@@ -17,7 +18,8 @@ Liens externes :
          * La chimie ;
          * L'humour ;
 
-**Liens externes :**
+Liens externes :
+-----------
 
         Mon [Site officiel :](https://9mkr-pages.github.io/9MKR/)
         ![Image](9MKR.png)
