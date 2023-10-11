@@ -20,4 +20,4 @@ Liens externes :
 **Liens externes :**
 
         [Site officiel :](https://9mkr-pages.github.io/9MKR/)
-        ![Image](https://avatars.githubusercontent.com/u/147431556?v=4 "icon")
+        ![Image](9MKR.png "icon")
