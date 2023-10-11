@@ -12,10 +12,10 @@
 
 
 2. Liens externes :
-<br>
-     - Mon [site officiel : ](https://9mkr-pages.github.io/9MKR/)
+
+     - Mon [site officiel : ](https://9mkr-pages.github.io/9MKR/ "https://9mkr-pages.github.io/9MKR/")
    
-     - Mon [adresse Email : ](mailto:9mkr.wiki@gmail.com)
+     - Mon [adresse Email : ](mailto:9mkr.wiki@gmail.com "9mkr.wiki@gmail.com")
 
 
  4. Logo :
