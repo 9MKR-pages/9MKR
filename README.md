@@ -1,8 +1,14 @@
 9MKR
 =======
+**Idnex** :
 
 Ce Que J'aime :
 -----------
+Liens externes :
+-----------
+
+**Ce Que J'aime :**
+
     1. J'aime :
          * L'informatique ;
          * L'électronique ;
@@ -10,3 +16,7 @@ Ce Que J'aime :
          * La physique ;
          * La chimie ;
          * L'humour ;
+
+**Liens externes :**
+
+        [Site officiel :](https://9mkr-pages.github.io/9MKR/)
