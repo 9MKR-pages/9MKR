@@ -1,0 +1,26 @@
+body{				margin-left:10em
+}
+
+ol{				 	cursor: default;
+}
+
+a{					color: black;
+}
+
+details{			cursor:pointer;
+}
+
+code {				background-color: #eee;
+ 					border-radius: 3px;
+ 					font-family: courier, monospace;
+ 					padding: 0 3px;
+}
+
+a:hover, a:focus {	text-decoration: underline;
+}
+
+.visually-hidden{	cursor:help ;
+}
+
+img{				height: 15px;
+}
