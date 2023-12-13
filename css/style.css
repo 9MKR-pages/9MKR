@@ -2,4 +2,3 @@ body{text-align:center;background-color:#e9ecef;}
 #img-9mkr{border-radius:10px;margin-top: 1em;}
 .img{height:40px;transition: height 0.5s;}
 .img:hover {height:50px;}
-#barre{margin-left:5em;width: 8em;height: 0.5rem;background: linear-gradient(90deg,#4365ff,#8845ff);rotate:90deg;}
