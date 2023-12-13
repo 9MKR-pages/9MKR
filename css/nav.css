@@ -1,0 +1,40 @@
+.menu{	font-size: 20px;
+			text-align: center;
+			margin-left:45%;
+			margin-right:45%
+}
+li{	font-size : 20px;
+}
+nav ul {
+    margin: 0px;
+    padding: 0px;
+    font-family: serif;
+}
+nav ul li {
+    list-style-type: none;
+    float: left;
+}
+nav ul {
+    overflow: hidden;
+}
+nav {
+    background: linear-gradient(91.59deg,#3d68ff 0,#8845ff 100%);
+    position: fixed;
+    margin-top:-1em;
+}
+nav {
+    width: 100%;
+}
+nav a {
+    display: inline-block;
+    padding: 20px 30px;
+    text-decoration: none;
+    color: #fff;
+        text-align:center;
+}
+.view{
+    position: relative;
+    float: left;
+}
+.txt{ text-align:center;
+}
